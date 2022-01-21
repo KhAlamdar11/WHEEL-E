@@ -12,10 +12,4 @@ PID_Self_Algo.ino: Ground up implementation of PID algorith.
 Motor_movements: Code for movement of the bot.
 
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=H8IEg2Rn4-M&list=PLrZSHMCFAhIzNgu0sVrEWVW034jOtQLLa" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=H8IEg2Rn4-M&list=PLrZSHMCFAhIzNgu0sVrEWVW034jOtQLLa"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+https://www.youtube.com/watch?v=H8IEg2Rn4-M&list=PLrZSHMCFAhIzNgu0sVrEWVW034jOtQLLa
