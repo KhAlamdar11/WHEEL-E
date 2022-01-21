@@ -7,3 +7,4 @@ PID_Lib_Algo.ino: PID implementation using Brett Beauregard's library. (https://
 PID_Self_Algo.ino: Ground up implementation of PID algorith.
 Motor_movements: Code for movement of the bot.
 
+![](untitled.mp4)
