@@ -11,4 +11,4 @@ PID_Self_Algo.ino: Ground up implementation of PID algorith.
 
 Motor_movements: Code for movement of the bot.
 
-<iframe width="686" height="386" src="https://www.youtube.com/embed/H8IEg2Rn4-M?list=PLrZSHMCFAhIzNgu0sVrEWVW034jOtQLLa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/H8IEg2Rn4-M?list=PLrZSHMCFAhIzNgu0sVrEWVW034jOtQLLa
