@@ -7,9 +7,9 @@ v1.7.ino: The main file
 
 PID_Lib_Algo.ino: PID implementation using Brett Beauregard's library. (https://playground.arduino.cc/Code/PIDLibrary/)
 
-PID_Self_Algo.ino: Ground up implementation of PID algorith.
+PID_Self_Algo.ino: Ground up implementation of PID algorithm.
 
-Motor_movements: Code for movement of the bot.
+Motor_movements: Code for low level control of the motors of the bot.
 
 
 https://www.youtube.com/watch?v=H8IEg2Rn4-M&list=PLrZSHMCFAhIzNgu0sVrEWVW034jOtQLLa
